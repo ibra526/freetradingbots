@@ -1,12 +1,22 @@
 <xml xmlns="https://developers.google.com/blockly/xml" is_dbot="true" collection="false">
   <variables>
-    <variable id="bApXT1A,+eLl!Y[O8Th*">Stake</variable>
-    <variable id="lCN)@wBBD%s95n*|krf;">Martingale</variable>
-    <variable id="pWX~7zBFdJ9*{g_mFK,1">InitialStake</variable>
-    <variable id="wL{Wo5qT|Bv=6v#EbWIc">lastDigit</variable>
-    <variable id="Yc2(?I]yhjR)7r#JH(GU">2ndLastDigit</variable>
-    <variable id="0#dL~P-qJAHY0vE|j[Un">3rdLastDigit</variable>
-  </variables>
+  variable type="" id="sJ!n%gjB1HwIN7Mx6l]V">amount loss</variable>
+    <variable type="" id="-z|cp**xSA2V}]wCgXYq">martingal</variable>
+    <variable type="" id="LaB87EDUkGv!#wkKXL03">Expected Profit</variable>
+    <variable type="" id="jLYH7rjjMj:r~|vcpbz/">stake</variable>
+    <variable type="" id="Yc+}X|cHRIVxFa?NhV[h">stop loss</variable>
+    <variable type="" id="+;s~3^JmPN4x:`_azy4g">prediction</variable>
+    <variable type="" id="~TA=%(lVm@WbR%mnR4H_">Stake Amount</variable>
+    <variable type="" id="|wzs+BNkMWC!![qw8PZE">tick3</variable>
+    <variable type="" id="gGKi+7zdb,UT,Ej20WZA">single1</variable>
+    <variable type="" id="Ab^H61d%J?Sxk-kyA6Av">tick4</variable>
+    <variable type="" id="]@HK_V(k69Zm6]M(jY+2">d1</variable>
+    <variable type="" id=";FY[3B$B?LA}PZ?=:T]#">d2</variable>
+    <variable type="" id=".g`7]RinTLgO#[*p1Xev">d3</variable>
+    <variable type="" id="9ER=7A[QGw9aT47/g{L;">single4</variable>
+    <variable type="" id="b7k1}+A3@,8!V4$BCujJ">single3</variable>
+    <variable type="" id="r*WeG.:e)9U-E!#dGp20">single2</variable>
+  </variables>  
   <block type="trade_definition" id="L]!@sI`i(GoRN1H2nhv:" deletable="false" x="0" y="60">
     <statement name="TRADE_OPTIONS">
       <block type="trade_definition_market" id="B::xUKiXi^%oem~,ffY@" deletable="false" movable="false">
