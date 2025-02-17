@@ -3,12 +3,12 @@
     <variable type="" id="6Bn#eIiR!ho1s3}SuU%a" islocal="false" iscloud="false">stake</variable>
     <variable type="" id="kAc-(,u9~V,eaROb)84r" islocal="false" iscloud="false">Initial Amount</variable>
     <variable type="" id="JmV/sg4y%s,aa=dC,`6c" islocal="false" iscloud="false">digit even</variable>
-    <variable type="" id="pY$+$CP}mEGEFGJFBA*3" islocal="false" iscloud="false">martingal</variable>
+    <variable type="" id="pY$+$CP}mEGEFGJFBA*3" islocal="false" iscloud="false">evencountloss</variable>
     <variable type="" id="z#ik-/~gZ%VE(r(=FpbA" islocal="false" iscloud="false">Win Amount</variable>
     <variable type="" id="ckz}/|4PR_7Vipx9=X`7" islocal="false" iscloud="false">Max Acceptable Loss</variable>
     <variable type="" id="G.`|(KYchy=nXTur?7vq" islocal="false" iscloud="false">Expected Profit</variable>
     <variable type="" id="F[_559YyhHcMHij72dJP" islocal="false" iscloud="false">text</variable>
-    <variable type="" id="9zcAky-m@0RZkb)@N0,a" islocal="false" iscloud="false">evencountloss</variable>
+    <variable type="" id="9zcAky-m@0RZkb)@N0,a" islocal="false" iscloud="false">martingal</variable>
     <variable type="" id="~`9Mai+-1WcGmE*dSp,O" islocal="false" iscloud="false">digit odd</variable>
     <variable type="" id="P0+)7m@f@^dCD.0$heah" islocal="false" iscloud="false">oddcountloss</variable>
     <variable type="" id="582pEiF,Y^J|AkrGxo2a" islocal="false" iscloud="false">Expected Amount</variable>
