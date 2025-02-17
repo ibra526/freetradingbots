@@ -2,10 +2,10 @@
   <variables>
     <variable id="bApXT1A,+eLl!Y[O8Th*">Stake</variable>
     <variable id="lCN)@wBBD%s95n*|krf;">Martingale</variable>
-    <variable id="pWX~7zBFdJ9*{g_mFK,1">InitialStake</variable>
-    <variable id="wL{Wo5qT|Bv=6v#EbWIc">lastDigit</variable>
-    <variable id="Yc2(?I]yhjR)7r#JH(GU">2ndLastDigit</variable>
-    <variable id="0#dL~P-qJAHY0vE|j[Un">3rdLastDigit</variable>
+    <variable id="pWX~7zBFdJ9*{g_mFK,1">evenlosscount</variable>
+    <variable id="wL{Wo5qT|Bv=6v#EbWIc">oddlosscount</variable>
+    <variable id="Yc2(?I]yhjR)7r#JH(GU">digitodd</variable>
+    <variable id="0#dL~P-qJAHY0vE|j[Un">digiteven</variable>
   </variables>
   <block type="trade_definition" id="L]!@sI`i(GoRN1H2nhv:" deletable="false" x="0" y="60">
     <statement name="TRADE_OPTIONS">
