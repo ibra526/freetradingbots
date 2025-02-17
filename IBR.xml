@@ -22,8 +22,8 @@ Not recommended for real account.
     </comment>
     <statement name="TRADE_OPTIONS">
       <block type="trade_definition_market" id="rU.xV`6}P7LG@+hBa!8*" deletable="false" movable="false">
-        <field name="MARKET_LIST">synthetic_index</field>
-        <field name="SUBMARKET_LIST">random_index</field>
+        <field name="MARKET_LIST">amountloss=2amountlossto0</field>
+        <field name="SUPERMARKET">/field>
         <field name="SYMBOL_LIST">1HZ100V</field>
         <next>
           <block type="trade_definition_tradetype" id="09Z6LFL^Z/~n0=HH]`S`" deletable="false" movable="false">
