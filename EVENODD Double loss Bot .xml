@@ -1,16 +1,11 @@
 <xml xmlns="https://developers.google.com/blockly/xml" is_dbot="true" collection="false">
   <variables>
-    <variable id="R5=]:6G).B#1rXZhZI-4">Martingale</variable>
-    <variable id="nU-8Vd~+?j^@:#1]UvCD">contractTraded</variable>
-    <variable id="nQ5X^GO?j1OItN-;1;)Y">Stake</variable>
-    <variable id="guh3}Q.Ck5;c[jA5@592">var2</variable>
-    <variable id="^^7gEVe`TA$DrG)*q0tj">EvenLossCount</variable>
-    <variable id="Clr%jJpj91+}GTH|y%TU">OddLossCount</variable>
-    <variable id="$pN,~,ooL[8O@OImuh6.">InitialStake</variable>
-    <variable id="%ZUjjHQ{vrwOEt}=LVhO">DIGITEVEN</variable>
-    <variable id=".k46,)p?Ll$WKjnB$0@*">DIGITODD</variable>
-    <variable id="xsjon3MCMZKdj)UlD*#/">text</variable>
-    <variable id="TNV$#kcv]!IQoBBeM5P5">var1</variable>
+  <Action id="1" name="Set State">Set state to 2</Action>
+      <Action id="2" name="Set Digit Odd">Set digit odd to 1</Action>
+      <Action id="3" name="Set Digit Even">Set digit even to 2</Action>
+      <Action id="4" name="Set Martingale">Set martingale to 2</Action>
+      <Action id="5" name="Set Stop Loss">Set stop loss to 10</Action>
+      <Action id="6" name="Set Target Profit">Set target profit to 10</Action>
   </variables>
   <block type="trade_definition" id="!l$A,{P2V5Uh[~yR_~^q" deletable="false" x="0" y="60">
     <statement name="TRADE_OPTIONS">
