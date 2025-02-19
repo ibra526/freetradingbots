@@ -1,15 +1,15 @@
 <xml xmlns="https://developers.google.com/blockly/xml" is_dbot="true" collection="false">
   <variables>
-    <variable id="!X+Gp;7Vz=CvLN0bS-3b">OddPercentage</variable>
-    <variable id="jGQo~;Y#a+D||qn,)s31">DigitAnalysis</variable>
-    <variable id="QTxj~vZ8S2ke!JZAc|NC">DigitsList</variable>
+    <variable id="!X+Gp;7Vz=CvLN0bS-3b">evenlosscount</variable>
+    <variable id="jGQo~;Y#a+D||qn,)s31">oddlosscount</variable>
+    <variable id="QTxj~vZ8S2ke!JZAc|NC">digitodd</variable>
     <variable id="*z-:=g^JPCW7W|.g7bZ$">Stake</variable>
-    <variable id="FE~beYP$-,i4]}wRoRVf">i</variable>
+    <variable id="FE~beYP$-,i4]}wRoRVf">digiteven=</variable>
     <variable id="kyu$5pA#5=Jt.x~ca(qe">Martingale</variable>
     <variable id=";{VT:3*HI^QH2k~@1Z(W">InitialStake</variable>
-    <variable id="I0~JRlB]?:$LSj!635Ax">EvenPercentage</variable>
-    <variable id=".Wibv#P6f+k5YA}weB5Y">TradePercentage</variable>
-    <variable id="Z!ib%HS,7[a`d]=BdhRG">EvenDigitsCount</variable>
+    <variable id="I0~JRlB]?:$LSj!635Ax">lastdigit</variable>
+    <variable id=".Wibv#P6f+k5YA}weB5Y">2rdlastdigit</variable>
+    <variable id="Z!ib%HS,7[a`d]=BdhRG">3rdlastdigit</variable>
     <variable id="jX/p3=~~ZL*!aJh9?$.g">OddDigitsCount</variable>
     <variable id="sdA,BGeV~Xemys6]!o#e">text4</variable>
     <variable id="0pkj|Lna(w|+wPo$uAQ_">text</variable>
